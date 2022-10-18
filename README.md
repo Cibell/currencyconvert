@@ -6,7 +6,7 @@ Para ver o projeto ao vivo, [Clique aqui](https://cibell.github.io/currencyconve
 
 # :speech_balloon: Sobre
 
-Esse projeto foi realizado dentro da platafomar do DevClub, formação de Full Stack do desenvolvedor **Rodolfo mori**, com o objetivo de converter Real para moedas (euro, dolar e bitcoin) em tempo real consumindo Api Rest e de colocar em praticar conhecimento adiquirido em: **HTML, CSS e JavaScripts**. 
+Esse projeto foi realizado dentro da platafomar do DevClub, formação de Full Stack do desenvolvedor **Rodolfo mori**, com o objetivo de converter Real para moedas (euro, dolar e bitcoin) em tempo real consumindo Api Rest e de colocar em praticar conhecimento adiquirido em: **HTML, CSS e JavaScripts**. O desafio foi colocar para converter em bitcoin.
 
 ### Aprendizados:
 - Html: select, input e button.
@@ -31,8 +31,8 @@ Utilizei como ferramenta o [VSCode](https://code.visualstudio.com/), instalei as
 
 ![image](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-## 🖇️ Colaborador
 
+# :pencil: Autor
 <table>
   <tr>
     <td align="right">
@@ -44,19 +44,6 @@ Utilizei como ferramenta o [VSCode](https://code.visualstudio.com/), instalei as
       </a>
     </td>
     <table>
-
-# :pencil: Autor
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Cibell" target="blank">
-        <img src="https://avatars.githubusercontent.com/u/88112866?v=4" width="100px;" alt="Foto da Cibele"/><br>
-        <sub>
-          <b>Cibele (Cibell)</b>
-        </sub>
-      </a>
-    </td>
-    </table>
 
 # :closed_book: Licença
 
