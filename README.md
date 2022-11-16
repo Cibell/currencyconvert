@@ -1,12 +1,12 @@
 
 
-# :triangular_flag_on_post: Projeto - Currencyconvert
+# :triangular_flag_on_post: Projeto - Converso de Moeda 
 Para ver o projeto ao vivo, [Clique aqui](https://cibell.github.io/currencyconvert/)
 ![projeto preview](./assetes/foto.png)
 
 # :speech_balloon: Sobre
 
-Esse projeto foi realizado dentro da platafomar do DevClub, formação de Full Stack do desenvolvedor **Rodolfo mori**, com o objetivo de converter Real para moedas (euro, dolar e bitcoin) em tempo real consumindo Api Rest e de colocar em praticar conhecimento adiquirido em: **HTML, CSS e JavaScripts**. O desafio foi colocar para converter em bitcoin.
+ Projeto converso de moeda com o objetivo de converter Real para moedas (euro, dolar e bitcoin) em tempo real consumindo Api Rest cotação de moeda.
 
 ### Aprendizados:
 - Html: select, input e button.
